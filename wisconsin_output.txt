@@ -1,0 +1,21 @@
+(base) bash-3.2$ python3 fraudcatch.py wisconsin
+Number of arguments: 2 arguments.
+Argument List: ['fraudcatch.py', 'wisconsin']
+======== wisconsin =============
+##### at entry  24  time =  2020-11-04T02:48:16Z  there is vote switch by  390.7080000000118
+##### at entry  24  time =  2020-11-04T02:48:16Z  Trump vote went down?!!!
+##### at entry  64  time =  2020-11-04T03:37:17Z  there is vote switch by  518.1700000000188
+##### at entry  64  time =  2020-11-04T03:37:17Z  Trump vote went down?!!!
+##### at entry  64  time =  2020-11-04T03:37:17Z  Biden increment vote share is  130.97150063051603  percent!!
+##### at entry  192  time =  2020-11-04T05:24:16Z  there is vote switch by  1724.9879999998352
+##### at entry  192  time =  2020-11-04T05:24:16Z  Trump vote went down?!!!
+##### at entry  201  time =  2020-11-04T05:27:57Z  there is vote switch by  943.4559999998473
+##### at entry  201  time =  2020-11-04T05:27:57Z  Trump vote went down?!!!
+##### at entry  223  time =  2020-11-04T05:56:21Z  Biden increment vote share is  106.75610263523087  percent!!
+##### at entry  244  time =  2020-11-04T06:19:50Z  Biden increment vote share is  198.4162556053705  percent!!
+##### at entry  248  time =  2020-11-04T06:25:51Z  Biden increment vote share is  142.40896720167856  percent!!
+##### at entry  288  time =  2020-11-04T08:12:01Z  there is vote switch by  616.4120000000548
+##### at entry  288  time =  2020-11-04T08:12:01Z  Trump vote went down?!!!
+##### at entry  314  time =  2020-11-04T18:27:01Z  there is vote switch by  31.719999999972636
+##### at entry  314  time =  2020-11-04T18:27:01Z  Trump vote went down?!!!
+Total Trump vote switched to others:  4225.4539999997405

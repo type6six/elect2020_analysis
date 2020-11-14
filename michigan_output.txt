@@ -1,0 +1,39 @@
+Number of arguments: 2 arguments.
+Argument List: ['fraudcatch.py', 'michigan']
+======== michigan =============
+##### at entry  28  time =  2020-11-04T01:51:52Z  there is vote switch by  5420.490000000022
+##### at entry  28  time =  2020-11-04T01:51:52Z  Trump vote went down?!!!
+##### at entry  28  time =  2020-11-04T01:51:52Z  Biden increment vote share is  552.9723214285748  percent!!
+##### at entry  40  time =  2020-11-04T02:07:41Z  there is vote switch by  542.7700000000403
+##### at entry  40  time =  2020-11-04T02:07:41Z  Trump vote went down?!!!
+##### at entry  241  time =  2020-11-04T05:04:15Z  Biden increment vote share is  137.26270572745122  percent!!
+##### at entry  292  time =  2020-11-04T05:53:56Z  there is vote switch by  268.6350000001799
+##### at entry  292  time =  2020-11-04T05:53:56Z  Trump vote went down?!!!
+##### at entry  337  time =  2020-11-04T06:38:47Z  there is vote switch by  1929.2640000000706
+##### at entry  337  time =  2020-11-04T06:38:47Z  Trump vote went down?!!!
+##### at entry  385  time =  2020-11-04T07:33:46Z  there is vote switch by  2528.5780000002533
+##### at entry  385  time =  2020-11-04T07:33:46Z  Trump vote went down?!!!
+##### at entry  420  time =  2020-11-04T08:50:10Z  Biden increment vote share is  97.19969322417829  percent!!
+##### at entry  433  time =  2020-11-04T09:23:48Z  there is vote switch by  2428.833999999868
+##### at entry  433  time =  2020-11-04T09:23:48Z  Trump vote went down?!!!
+##### at entry  433  time =  2020-11-04T09:23:48Z  Biden increment vote share is  165.51801552106147  percent!!
+##### at entry  441  time =  2020-11-04T09:56:35Z  there is vote switch by  4.517000000168665
+##### at entry  441  time =  2020-11-04T09:56:35Z  Trump vote went down?!!!
+##### at entry  458  time =  2020-11-04T10:56:46Z  Biden increment vote share is  174.88800337933102  percent!!
+##### at entry  495  time =  2020-11-04T16:21:48Z  there is vote switch by  3957.2239999998988
+##### at entry  495  time =  2020-11-04T16:21:48Z  Trump vote went down?!!!
+##### at entry  499  time =  2020-11-04T16:36:13Z  there is vote switch by  148.56899999988713
+##### at entry  499  time =  2020-11-04T16:36:13Z  Trump vote went down?!!!
+##### at entry  508  time =  2020-11-04T18:23:51Z  there is vote switch by  6056.81899999982
+##### at entry  508  time =  2020-11-04T18:23:51Z  Trump vote went down?!!!
+##### at entry  519  time =  2020-11-04T23:31:12Z  there is vote switch by  2713.26799999995
+##### at entry  519  time =  2020-11-04T23:31:12Z  Trump vote went down?!!!
+##### at entry  521  time =  2020-11-05T00:29:28Z  Biden increment vote share is  105.5126987341768  percent!!
+##### at entry  524  time =  2020-11-05T13:34:44Z  there is vote switch by  271.4740000001655
+##### at entry  524  time =  2020-11-05T13:34:44Z  Trump vote went down?!!!
+##### at entry  524  time =  2020-11-05T13:34:44Z  Biden increment vote share is  99.61101842351849  percent!!
+##### at entry  528  time =  2020-11-06T18:11:31Z  there is vote switch by  1339.2839999997952
+##### at entry  528  time =  2020-11-06T18:11:31Z  Trump vote went down?!!!
+##### at entry  531  time =  2020-11-09T21:42:13Z  there is vote switch by  3184.8709999999014
+##### at entry  531  time =  2020-11-09T21:42:13Z  Trump vote went down?!!!
+Total Trump vote switched to others:  30794.59700000002
